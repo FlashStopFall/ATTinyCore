@@ -1,4 +1,9 @@
-# ATTinyCore **Universal**
+# ATTinyCore **Universal** (2026 Working Update)
+
+This is a fork of Spence Konde's ATTinyCore Repo. It was not working enough to use for programming a DigiSpark in 2026, so I fixed some things, and added some example code from Digistump's Digispark repo.
+
+
+
 Arduino support for almost every classic tinyAVR device! Supports ATtiny 1634, 2313/4313, 24/44/84, 441/841, 25/45/85, 261/461/861, 87/167, 48/88, 43, 26 and 828.
 
 Supports programming via ISP, Serial (Optiboot) or VUSB (Micronucleus)
