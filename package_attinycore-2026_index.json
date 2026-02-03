@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/FlashStopFall/ATTinyCore-2026/releases/download/v2.0.0-alpha/attinycore-2026.bz2",
           "archiveFileName": "attinycore-2026.bz2",
-          "checksum": "SHA-256:e5c32afa72d1882c5737a6d8a4d59da2c3386624676361d93727e904abafc4c7",
-          "size": "175926940",
+          "checksum": "SHA-256:6afaf6e4b7ad737b0a3d14d5a5fa949852a09287100cb647ea2763947273c1d5",
+          "size": "25593767",
           "boards": [
             {
               "name": "<b>Program via ISP or Serial:</b> ATtiny841/441, ATtiny85/45/25, ATtiny84/44/24, ATtiny1634, ATtiny861/461/261, ATtiny167/87, ATtiny43, ATtiny828, ATtiny88/48, ATtiny4313/2313"
