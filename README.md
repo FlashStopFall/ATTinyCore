@@ -1,6 +1,6 @@
 # ATTinyCore **Universal** (2026 Working Update)
 
-This is a fork of Spence Konde's ATTinyCore Repo (https://github.com/SpenceKonde/ATTinyCore). It was not working enough to use for programming a DigiSpark in 2026, so I fixed some things, and added some example code from Digistump's Digispark repo.
+This is a fork of Spence Konde's ATTinyCore Repo (https://github.com/SpenceKonde/ATTinyCore). It was not working enough to use for programming a DigiSpark in 2026, so I fixed some things, and added some example code from Digistump's Digispark repo (https://github.com/digistump/DigistumpArduino/tree/master) as well as some helper programs from Digistump to be able to use DigiUSB (https://github.com/digistump/DigisparkExamplePrograms/tree/master).
 
 
 
