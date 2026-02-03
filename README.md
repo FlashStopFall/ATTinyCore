@@ -1,6 +1,6 @@
 # ATTinyCore **Universal** (2026 Working Update)
 
-This is a fork of Spence Konde's ATTinyCore Repo (https://github.com/SpenceKonde/ATTinyCore). It was not working enough to use for programming a DigiSpark in 2026, so I fixed some things, and added some example code from Digistump's Digispark repo (https://github.com/digistump/DigistumpArduino/tree/master) as well as some helper programs from Digistump to be able to use DigiUSB (https://github.com/digistump/DigisparkExamplePrograms/tree/master).
+This is a fork of Spence Konde's ATTinyCore Repo (https://github.com/SpenceKonde/ATTinyCore). It was not working enough to use for programming a DigiSpark in 2026, so I fixed some things, and added some example code from Digistump's Digispark repo (https://github.com/digistump/DigistumpArduino/tree/master) as well as some helper programs from Digistump to be able to use DigiUSB (https://github.com/digistump/DigisparkExamplePrograms/tree/master). Credit also to felias-fogg (https://github.com/felias-fogg/ATTinyCore). His repo is installable via the Arduino IDE, and I used his code to learn how make package_index.json. Some of the download links still point to his mirrors.
 
 
 
