@@ -38,7 +38,7 @@
             {
               "packager": "arduino",
               "name": "avrdude",
-              "version": "6.3.0-arduino18"
+              "version": "8.0-arduino.1"
             },
             {
               "packager": "ATTinyCore-2026",
