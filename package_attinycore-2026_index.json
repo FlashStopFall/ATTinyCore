@@ -48,15 +48,6 @@
           ]
         },
         {
-      "name": "ATTinyCore-2026",
-      "maintainer": "Ian Walsh",
-      "websiteURL": "https://github.com/FlashStopFall/ATTinyCore-2026",
-      "email": "",
-      "help": {
-        "online": ""
-      },
-      "platforms": [
-        {
           "name": "ATTinyCore-2026",
           "architecture": "avr",
           "version": "2.0.0-ian-2",
