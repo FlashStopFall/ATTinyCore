@@ -46,6 +46,53 @@
               "version": "2.5-azd1b"
             }
           ]
+        },
+        {
+      "name": "ATTinyCore-2026",
+      "maintainer": "Ian Walsh",
+      "websiteURL": "https://github.com/FlashStopFall/ATTinyCore-2026",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "ATTinyCore-2026",
+          "architecture": "avr",
+          "version": "2.0.0-ian-2",
+          "category": "Contributed",
+          "url": "https://github.com/FlashStopFall/ATTinyCore-2026/releases/download/v2.0.0-ian-2/attinycore-2026-2_0_0_ian_2.bz2",
+          "archiveFileName": "attinycore-2026-2_0_0_ian_2.bz2",
+          "checksum": "SHA-256:7395e591c6454ca8e7691390b2d7bdb7e5ecab9d13d5317cdf28d8cfa7e31caa",
+          "size": "25593760",
+          "boards": [
+            {
+              "name": "<b>Program via ISP or Serial:</b> ATtiny841/441, ATtiny85/45/25, ATtiny84/44/24, ATtiny1634, ATtiny861/461/261, ATtiny167/87, ATtiny43, ATtiny828, ATtiny88/48, ATtiny4313/2313"
+            },
+            {
+              "name": "<br/><b>USB (Micronucleus) Support:</b> DigiSpark (t85), Digispark Pro (t167), MH-ET (t88), Wattuino/Nanite/etc (t841), CaliforniaSTEAM (t84)"
+            },
+            {
+              "name": "<br/><b>Windows users:</b> If USB drivers are not already installed, run the post_install.bat manually or DL from <a href=https://azduino.com/bin/micronucleus>https://azduino.com/bin/micronucleus</a>"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "ATTinyCore-2026",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "ATTinyCore-2026",
+              "name": "micronucleus",
+              "version": "2.5-azd1b"
+            }
+          ]
         }
       ],
       "tools": [
