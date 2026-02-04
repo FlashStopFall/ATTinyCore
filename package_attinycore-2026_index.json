@@ -122,6 +122,44 @@
               "version": "2.5-azd1b"
             }
           ]
+        },
+        {
+          "name": "ATTinyCore-2026",
+          "architecture": "avr",
+          "version": "2.0.1-ian.2",
+          "category": "Contributed",
+          "url": "https://github.com/FlashStopFall/ATTinyCore-2026/releases/download/v2.0.1-ian.2/attinycore-2026-2_0_1_ian_2.bz2",
+          "archiveFileName": "attinycore-2026-2_0_1_ian_2.bz2",
+          "checksum": "SHA-256:5d9614e9ab69bc4525e837693ffa94fec153827454f90c75b845e93e92ffec54",
+          "size": "25593763",
+          "boards": [
+            {
+              "name": "<b>Program via ISP or Serial:</b> ATtiny841/441, ATtiny85/45/25, ATtiny84/44/24, ATtiny1634, ATtiny861/461/261, ATtiny167/87, ATtiny43, ATtiny828, ATtiny88/48, ATtiny4313/2313"
+            },
+            {
+              "name": "<br/><b>USB (Micronucleus) Support:</b> DigiSpark (t85), Digispark Pro (t167), MH-ET (t88), Wattuino/Nanite/etc (t841), CaliforniaSTEAM (t84)"
+            },
+            {
+              "name": "<br/><b>Windows users:</b> If USB drivers are not already installed, run the post_install.bat manually or DL online.</a>"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "ATTinyCore-2026",
+              "name": "avrdude",
+              "version": "8.0-arduino.1"
+            },
+            {
+              "packager": "ATTinyCore-2026",
+              "name": "micronucleus",
+              "version": "2.5-azd1b"
+            }
+          ]
         }
       ],
       "tools": [
